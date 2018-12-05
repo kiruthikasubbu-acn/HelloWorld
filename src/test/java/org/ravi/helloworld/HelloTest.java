@@ -15,7 +15,7 @@ import org.testng.annotations.AfterTest;
 
 public class HelloTest {
 
-	WebDriver driver;
+	/*WebDriver driver;
 	WebElement text;
 	@BeforeTest
 	public void beforeTest() {
@@ -40,6 +40,6 @@ public class HelloTest {
 	public void afterTest() {
 		//driver.close();
 	}
-
+*/
 
 }
